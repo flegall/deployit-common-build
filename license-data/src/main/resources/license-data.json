@@ -1227,6 +1227,58 @@
             "license": "MIT",
             "licenseSource": "data"
         },
+        "org.tmatesoft.svnkit:svnkit": {
+            "license": "TMATE",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.svnkit-trilead-ssh2": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.connector-factory": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.core": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.usocket-jna": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.usocket-nc": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.sshagent": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "com.jcraft:jsch.agentproxy.pageant": {
+            "license": "JCRAFT",
+            "licenseSource": "data"
+        },
+        "net.java.dev.jna:jna": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "net.java.dev.jna:platform": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.tmatesoft.sqljet:sqljet": {
+            "license": "TMATE",
+            "licenseSource": "data"
+        },
+        "de.regnis.q.sequence:sequence-library": {
+            "license": "SEQUENCE",
+            "licenseSource": "data"
+        },
+        "com.trilead:trilead-ssh2": {
+            "license": "TRILEAD",
+            "licenseSource": "data"
+        },
         "dummy:dummy": {
             "license": "Apache-2.0",
             "licenseSource": "data",
@@ -1418,6 +1470,22 @@
         "MIT-ES5-SHIM": {
             "type": "MIT",
             "file": "MIT-ES5-SHIM"
+        },
+        "TMATE": {
+            "type": "TMate",
+            "file": "TMATE"
+        },
+        "JCRAFT": {
+            "type": "JCRAFT",
+            "file": "JCRAFT"
+        },
+        "SEQUENCE": {
+            "type": "SEQUENCE",
+            "file": "SEQUENCE"
+        },
+        "TRILEAD": {
+            "type": "TRILEAD",
+            "file": "TRILEAD"
         },
         "Commercial": {
             "type": "Commercial",
